@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi,I'mYunjin!&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi,&nbsp;I'm&nbsp;Yunjin!&fontSize=90" />
 
 # 💪Skills
 ### Languages
