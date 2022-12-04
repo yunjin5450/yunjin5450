@@ -25,7 +25,7 @@
 ### 🔠 Languages
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunjin5450&layout=compact">	</div>	
   
-### GitHub Stats
+### ⚡️ GitHub Stats
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Yunjin&theme=tokyonight&show_icons=true"> </div>
   
   <br>
