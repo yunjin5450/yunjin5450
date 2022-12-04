@@ -16,16 +16,16 @@
 <img src="https://img.shields.io/badge/WebRTC-F37C20?style=for-the-badge&logo=WebRTC&logoColor=white">
 <br>
   
-### 📚 Platform
+### 🛠️ Platform
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">
 
   <br>
   <hr>
   
-### 📚 Languages
+### 🔠 Languages
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunjin5450&layout=compact">	</div>	
   
-### 📚 GitHub Stats
+### GitHub Stats
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Yunjin&theme=tokyonight&show_icons=true"> </div>
   
   <br>
