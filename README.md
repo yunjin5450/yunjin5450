@@ -6,3 +6,5 @@
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoohyungSeo&layout=compact">	</div>	<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Yunjin&theme=tokyonight&show_icons=true"> </div>
