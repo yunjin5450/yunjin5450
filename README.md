@@ -36,7 +36,7 @@
   <br>
   
 ### ⚡️ GitHub Stats
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Yunjin5450&theme=tokyonight&show_icons=true"> </div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=yunjin5450&theme=tokyonight&show_icons=true"> </div>
   
   <br>
   <hr>
