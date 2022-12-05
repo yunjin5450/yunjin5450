@@ -38,6 +38,7 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Yunjin5450&theme=tokyonight&show_icons=true"> </div>
   
   <br>
+  <hr>
   
  ### 🐍 My GitHub 
 
