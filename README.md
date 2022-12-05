@@ -31,12 +31,11 @@
   
 ### 🔠 Languages
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunjin5450&layout=compact"> </div>	
-  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunjin5450&layout=compact&theme=buefy)
   <br>
   
 ### ⚡️ GitHub Stats
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=yunjin5450&theme=tokyonight&show_icons=true"> </div>
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=6810779s&show_icons=true&theme=buefy)
   
   <br>
   <hr>
