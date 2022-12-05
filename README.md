@@ -25,8 +25,9 @@
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">
   
   <br>
-  <hr>
   <br>
+  <hr>
+
   
 ### 🔠 Languages
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunjin5450&layout=compact">	</div>	
