@@ -39,4 +39,3 @@
   
   <br>
   
-  ![snake gif](https://github.com/yunjin54540/yunjin5450/blob/output/github-contribution-grid-snake.svg)
