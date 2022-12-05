@@ -1,3 +1,5 @@
+![snake gif](https://github.com/yunjin54540/yunjin5450/blob/output/github-contribution-grid-snake.svg)
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi,&nbsp;I'm&nbsp;Yunjin!&fontSize=90" />
 
 <div align = "center">
