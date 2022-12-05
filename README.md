@@ -30,7 +30,8 @@
 
   
 ### 🔠 Languages
-	
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunjin5450&layout=compact"> </div>	
   
   <br>
   
