@@ -44,9 +44,11 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yunjin5450&show_icons=true&theme=buefy)
   
   </div>
-  <br>
-  <hr>
+  
+  <div align = "center">
   
  ### 🎮 My GitHub 
 
   ![snake gif](https://github.com/yunjin5450/yunjin5450/blob/output/github-contribution-grid-snake.svg)
+  
+  </div>
