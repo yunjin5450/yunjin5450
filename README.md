@@ -1,4 +1,10 @@
-
+<style>
+  #box01{
+  float:left;
+  margin:30%;
+  border: 10px red;
+  }
+</style>  
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi,&nbsp;I'm&nbsp;Yunjin!&fontSize=90" />
 
@@ -40,7 +46,7 @@
   </div>
   <br>
   
-  <div>
+  <div id="box01>
   
 ### ⚡️ GitHub Stats
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yunjin5450&show_icons=true&theme=buefy)
