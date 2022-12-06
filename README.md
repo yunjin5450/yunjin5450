@@ -38,7 +38,7 @@
   </div>
   <br>
   
-  <div id="box01>
+  <div>
   
 ### ⚡️ GitHub Stats
   
