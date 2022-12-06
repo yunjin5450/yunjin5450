@@ -1,7 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi,&nbsp;I'm&nbsp;Yunjin!&fontSize=90" />
 
 <div align = "center">
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=🤞+About+me;🖥+BackEnd+Engineer)](https://git.io/typing-svg)  
   
 ### 📚 Studying
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"> 
