@@ -40,6 +40,6 @@
   <br>
   <hr>
   
- ### 🐍 My GitHub 
+ ### 🎮 My GitHub 
 
   ![snake gif](https://github.com/yunjin5450/yunjin5450/blob/output/github-contribution-grid-snake.svg)
