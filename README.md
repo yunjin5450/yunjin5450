@@ -29,15 +29,15 @@
   <br>
   <hr>
 
-  <div>
+  <div align = "center">
   
 ### 🔠 Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunjin5450&layout=compact&theme=buefy)
   
   </div>
-  <br>
-  <div>
+
+  <div align = "center">
   
 ### ⚡️ GitHub Stats
   
