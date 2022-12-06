@@ -2,7 +2,7 @@
 
 <div align = "center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=🤞+About+me+text;Second+line+of+text)](https://git.io/typing-svg)  
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=🤞+About+me;나는+윤진+of+text)](https://git.io/typing-svg)  
   
 ### 📚 Studying
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"> 
