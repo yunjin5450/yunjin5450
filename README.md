@@ -1,3 +1,5 @@
+
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi,&nbsp;I'm&nbsp;Yunjin!&fontSize=90" />
 
 <div align = "center">
@@ -24,19 +26,26 @@
   
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">
   
+  </div>
   <br>
   <br>
   <hr>
 
+  <div>
   
 ### 🔠 Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunjin5450&layout=compact&theme=buefy)
+  
+  </div>
   <br>
+  
+  <div>
   
 ### ⚡️ GitHub Stats
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yunjin5450&show_icons=true&theme=buefy)
   
+  </div>
   <br>
   <hr>
   
