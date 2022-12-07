@@ -23,26 +23,20 @@
   
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">
   
-  </div>
+
   <hr>
 
-  <div align = "center">
+
   
 ### 🔠 Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunjin5450&layout=compact&theme=buefy)
   
-  </div>
+### ⚡️ GitHub Stats 
 
-  <div align = "center">
-  
-### ⚡️ GitHub Stats
-  
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yunjin5450&show_icons=true&theme=buefy)
-  
-  </div>
-  
-  <div align = "center">
+
+
   
  ### 🎮 My GitHub 
 
