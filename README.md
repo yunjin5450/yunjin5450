@@ -18,15 +18,7 @@
 <img src="https://img.shields.io/badge/WebRTC-F37C20?style=for-the-badge&logo=WebRTC&logoColor=white">
   
   <br>
-  
-### 🛠️ Platform
-  
-<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">
-  
-
-  <hr>
-
-
+  <br>
   
 ### 🔠 Languages
 
